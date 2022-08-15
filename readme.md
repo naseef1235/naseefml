@@ -1,7 +1,7 @@
-jithumon.in
+naseefm.vercel.ml
 ======================
 
-Github repo for Jithu's Website
+Github repo for Naseef's Website
 
 ## How to get your own?
 1. Fork the repo
